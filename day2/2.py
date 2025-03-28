@@ -33,4 +33,4 @@ print(type(False))
 PAUSE 3. Make this line of code run without errors
 """
 
-print("Number of letters in your name: " + print(len(input("Enter your name"))))
+print("Number of letters in your name: " + str(len(input("Enter your name"))))
